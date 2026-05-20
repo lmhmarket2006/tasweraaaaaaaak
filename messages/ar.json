@@ -1,0 +1,96 @@
+{
+  "common": {
+    "brand": "تصويرك",
+    "tagline": "أول منصة متخصصة في تعليم التصوير بالعربية",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "خروج",
+    "courses": "الدورات",
+    "about": "من نحن",
+    "dashboard": "لوحتي",
+    "admin": "الإدارة",
+    "instructor": "لوحة المدرب",
+    "search": "ابحث عن دورة...",
+    "loading": "جاري التحميل...",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "submit": "إرسال",
+    "approve": "قبول",
+    "reject": "رفض",
+    "pending": "قيد المراجعة",
+    "approved": "مقبول",
+    "rejected": "مرفوض"
+  },
+  "home": {
+    "heroTitle": "تعلّم التصوير من أفضل المدربين العرب",
+    "heroSubtitle": "دورات مسجلة باحترافية — تعلّم في أي وقت ومن أي مكان",
+    "ctaCourses": "استكشف الدورات",
+    "ctaRegister": "ابدأ مجاناً",
+    "featured": "دورات مميزة",
+    "statsStudents": "طالب",
+    "statsCourses": "دورة",
+    "statsHours": "ساعة تعليمية"
+  },
+  "courses": {
+    "title": "دورات التصوير",
+    "subtitle": "تعلّم التصوير من الصفر مع مدربين محترفين",
+    "enroll": "اشترك الآن",
+    "freePreview": "معاينة مجانية",
+    "lessons": "محاضرة",
+    "level": "المستوى",
+    "beginner": "مبتدئ",
+    "intermediate": "متوسط",
+    "advanced": "محترف",
+    "curriculum": "محتوى الدورة",
+    "whatYouLearn": "ماذا ستتعلم"
+  },
+  "purchase": {
+    "title": "إتمام الاشتراك",
+    "bankDetails": "بيانات التحويل البنكي",
+    "bankName": "البنك",
+    "accountName": "اسم الحساب",
+    "accountNumber": "رقم الحساب",
+    "amount": "المبلغ المطلوب",
+    "requestNumber": "رقم الطلب",
+    "whatsapp": "إرسال الإيصال عبر واتساب",
+    "uploadReceipt": "رفع إيصال التحويل",
+    "uploadHint": "صورة أو PDF — حتى 5 ميجابايت",
+    "pendingMessage": "طلبك قيد المراجعة. سنفعّل الدورة بعد التحقق من الإيصال.",
+    "successRequest": "تم إنشاء طلبك بنجاح"
+  },
+  "dashboard": {
+    "greeting": "مرحباً",
+    "myCourses": "دوراتي",
+    "orders": "طلباتي",
+    "noCourses": "لم تسجّل في أي دورة بعد",
+    "continueLearning": "متابعة التعلم",
+    "uploadReceipt": "رفع الإيصال"
+  },
+  "admin": {
+    "title": "لوحة الإدارة",
+    "orders": "طلبات الشراء",
+    "courses": "الدورات",
+    "instructors": "طلبات المدربين",
+    "settings": "إعدادات الدفع",
+    "reviewReceipt": "معاينة الإيصال",
+    "rejectionReason": "سبب الرفض"
+  },
+  "instructor": {
+    "title": "لوحة المدرب",
+    "apply": "انضم كمدرب",
+    "newCourse": "دورة جديدة",
+    "submitReview": "إرسال للمراجعة",
+    "draft": "مسودة",
+    "pendingReview": "بانتظار الموافقة"
+  },
+  "auth": {
+    "loginTitle": "تسجيل الدخول",
+    "registerTitle": "إنشاء حساب جديد",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "google": "متابعة مع Google",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب؟"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "common": {
+    "brand": "Taswerak",
+    "tagline": "The first Arabic photography learning platform",
+    "login": "Log in",
+    "register": "Sign up",
+    "logout": "Log out",
+    "courses": "Courses",
+    "about": "About",
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "instructor": "Instructor",
+    "search": "Search courses...",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "approve": "Approve",
+    "reject": "Reject",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "home": {
+    "heroTitle": "Learn photography from top Arabic instructors",
+    "heroSubtitle": "Professional recorded courses — learn anytime, anywhere",
+    "ctaCourses": "Browse courses",
+    "ctaRegister": "Get started",
+    "featured": "Featured courses",
+    "statsStudents": "students",
+    "statsCourses": "courses",
+    "statsHours": "learning hours"
+  },
+  "courses": {
+    "title": "Photography courses",
+    "subtitle": "Learn photography from scratch with expert instructors",
+    "enroll": "Enroll now",
+    "freePreview": "Free preview",
+    "lessons": "lessons",
+    "level": "Level",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "curriculum": "Curriculum",
+    "whatYouLearn": "What you'll learn"
+  },
+  "purchase": {
+    "title": "Complete enrollment",
+    "bankDetails": "Bank transfer details",
+    "bankName": "Bank",
+    "accountName": "Account name",
+    "accountNumber": "Account number",
+    "amount": "Amount due",
+    "requestNumber": "Request #",
+    "whatsapp": "Send receipt via WhatsApp",
+    "uploadReceipt": "Upload transfer receipt",
+    "uploadHint": "Image or PDF — up to 5MB",
+    "pendingMessage": "Your request is under review. We'll activate the course after verifying your receipt.",
+    "successRequest": "Your request was created successfully"
+  },
+  "dashboard": {
+    "greeting": "Welcome",
+    "myCourses": "My courses",
+    "orders": "My orders",
+    "noCourses": "You haven't enrolled in any course yet",
+    "continueLearning": "Continue learning",
+    "uploadReceipt": "Upload receipt"
+  },
+  "admin": {
+    "title": "Admin panel",
+    "orders": "Purchase requests",
+    "courses": "Courses",
+    "instructors": "Instructor applications",
+    "settings": "Payment settings",
+    "reviewReceipt": "View receipt",
+    "rejectionReason": "Rejection reason"
+  },
+  "instructor": {
+    "title": "Instructor panel",
+    "apply": "Apply as instructor",
+    "newCourse": "New course",
+    "submitReview": "Submit for review",
+    "draft": "Draft",
+    "pendingReview": "Pending approval"
+  },
+  "auth": {
+    "loginTitle": "Log in",
+    "registerTitle": "Create account",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full name",
+    "google": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  }
+}
