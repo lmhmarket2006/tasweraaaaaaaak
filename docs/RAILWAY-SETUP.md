@@ -55,9 +55,8 @@
 ## 5) إعدادات النشر
 
 - **Root Directory:** اتركه فارغاً (جذر الريبو).
-- **Build:** يقرأ من `railway.toml` تلقائياً:
-  - `prisma generate` → `migrate deploy` → `next build`
-- **Start:** `npm run start`
+- **Build:** `npm run build` (بدون اتصال بقاعدة البيانات)
+- **Start:** `prisma migrate deploy` ثم `npm run start`
 
 بعد أي تعديل على Variables اضغط **Redeploy**.
 
